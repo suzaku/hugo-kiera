@@ -160,7 +160,8 @@ time {
 
 #container main article p code {
   padding: 0.2em;
-  background-color: #ffcccc;
+  background-color: rgba(27,31,35,.05);
+  color: #6a737d;
   font-size: 0.9em;
 }
 
